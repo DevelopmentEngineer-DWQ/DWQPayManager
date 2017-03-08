@@ -25,7 +25,7 @@
 			<string>zhifubao</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>DWQAlipayDemo</string>
+				<string>DWQAlipay</string>
 			</array>
 		</dict>
 		<dict>
@@ -35,7 +35,7 @@
 			<string>weixin</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>wxb4ba3c02aa476ea1</string>
+				<string>wxe3ddafa8af43a383</string>
 			</array>
 		</dict>
 	</array>

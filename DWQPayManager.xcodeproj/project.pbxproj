@@ -642,6 +642,7 @@
 				047454EE1E55702400403002 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		047454EF1E55702400403002 /* Build configuration list for PBXNativeTarget "DWQPayManagerTests" */ = {
 			isa = XCConfigurationList;
@@ -650,6 +651,7 @@
 				047454F11E55702400403002 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		047454F21E55702400403002 /* Build configuration list for PBXNativeTarget "DWQPayManagerUITests" */ = {
 			isa = XCConfigurationList;
@@ -658,6 +660,7 @@
 				047454F41E55702400403002 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
